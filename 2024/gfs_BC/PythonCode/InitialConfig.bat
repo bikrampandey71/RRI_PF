@@ -1,0 +1,2 @@
+python .\InitialConfig.py
+Pause

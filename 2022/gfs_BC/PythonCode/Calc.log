@@ -1,0 +1,28 @@
+*********2025/09/20 07:01:07*********
+OK! >>> [ObsData]
+OK! >>> [ObsData > Discharge]
+OK! >>> [ObsData > Rainfall]
+NG! >>> [ObsData > Rainfall > RainJ] (e.g., Is "JmaJ" folder name old version??)!
+NG! >>> [ObsData > Rainfall > JmaY] *Not required depend on your condtions!
+OK! >>> [ObsData > River]
+OK! >>> [ObsData > WaterLevel]
+NG! >>> [Particle]
+NG! >>> [Particle > InitialConditions]
+NG! >>> [Particle > Particle##########]
+NG! >>> [Particle > Particle##########]
+NG! >>> [Particle > Particle##########]
+NG! >>> [Particle > Particle##########]
+NG! >>> [Particle > Particle##########]
+NG! >>> [Particle > Particle##########]
+NG! >>> [Particle > Particle##########]
+NG! >>> [Particle > Particle##########]
+NG! >>> [Particle > Particle##########]
+NG! >>> [Particle > Particle##########]
+NG! >>> [Particle > Particle##########]
+NG! >>> [Particle > Particle##########]
+NG! >>> [Particle > Particle##########]
+NG! >>> [Particle > Particle##########]
+NG! >>> [Particle > Particle##########]
+NG! >>> [Particle > Particle##########]
+[Results] >>> OK!
+[Archives] >>> OK!
